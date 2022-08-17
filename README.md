@@ -7,7 +7,9 @@
 ## Usage
 
 ### Modify config.json
-### "Token":"YourToken"
+"Token":"YourToken"
 
-### The below example shows how to start the bot
+### Start the bot
 `go run main.go`
+
+### Send in chat "!ping" or "!pong"
